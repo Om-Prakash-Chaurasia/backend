@@ -1,0 +1,3 @@
+This is to demonstrate the append methods in node fs-moduleDemonstrating update file in node Demonstrating update file in node Demonstrating update file in node Demonstrating update file in node 
+ Demonstrating update file in node 
+ Demonstrating update file in node 
